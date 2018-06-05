@@ -34,7 +34,7 @@ public class Rotation {
         }
         return empTwoMonthCont;
     }
-    public int getRolecount(String role, ProjectDetails projectDetails){
+    public int getRolecount(String role, ProjectDetails projectDetails){//checking
         if(role.equals("QA")){
             return projectDetails.getProjQACount();
         }

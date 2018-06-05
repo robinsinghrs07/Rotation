@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="441c9176-a5b8-49f7-ac76-45c797926c49" name="Default" comment="" />
+    <list default="true" id="441c9176-a5b8-49f7-ac76-45c797926c49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rotation.java" afterPath="$PROJECT_DIR$/src/main/java/Rotation.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rotation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rotation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="36" column="71" lean-forward="false" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
               <folding>
                 <element signature="e#96#104#0" expanded="true" />
                 <element signature="e#159#167#0" expanded="true" />
@@ -134,17 +137,28 @@
                 <element signature="e#432#444#0" expanded="true" />
                 <element signature="method#EmpTwoMonthCont#0;class#Rotation#0" expanded="false" />
                 <element signature="e#1250#1262#0" expanded="true" />
+                <element signature="method#getRolecount#0;class#Rotation#0" expanded="false" />
                 <element signature="method#addToRotationPerLocation#0;class#Rotation#0" expanded="false" />
                 <element signature="method#addAllToRotation#0;class#Rotation#0" expanded="false" />
                 <element signature="method#checkteamwise#0;class#Rotation#0" expanded="false" />
                 <element signature="method#rotateFree#0;class#Rotation#0" expanded="false" />
                 <element signature="method#rotateTwoMonths#0;class#Rotation#0" expanded="false" />
                 <element signature="method#LocationProjects#0;class#Rotation#0" expanded="false" />
-                <element signature="e#12292#12309#0" expanded="true" />
-                <element signature="e#12416#12424#0" expanded="true" />
-                <element signature="e#13098#13106#0" expanded="true" />
+                <element signature="e#12302#12319#0" expanded="true" />
+                <element signature="e#12426#12434#0" expanded="true" />
+                <element signature="e#13108#13116#0" expanded="true" />
                 <element signature="method#checkLocationBeforeRemoval#0;class#Rotation#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -215,6 +229,9 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -235,6 +252,7 @@
         <option value="$PROJECT_DIR$/src/main/java/MainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/RunClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rotation.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -257,6 +275,7 @@
     <option name="width" value="1436" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -284,26 +303,6 @@
               <item name="AssignProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="AssignProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AssignProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AssignProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AssignProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AssignProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AssignProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AssignProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -465,12 +464,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528046590141</updated>
-      <workItem from="1528046594747" duration="103938000" />
+      <workItem from="1528046594747" duration="104208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103938000" />
+    <option name="totallyTimeSpent" value="104208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -484,7 +483,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -751,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Rotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="36" column="71" lean-forward="false" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
           <folding>
             <element signature="e#96#104#0" expanded="true" />
             <element signature="e#159#167#0" expanded="true" />
@@ -760,17 +759,26 @@
             <element signature="e#432#444#0" expanded="true" />
             <element signature="method#EmpTwoMonthCont#0;class#Rotation#0" expanded="false" />
             <element signature="e#1250#1262#0" expanded="true" />
+            <element signature="method#getRolecount#0;class#Rotation#0" expanded="false" />
             <element signature="method#addToRotationPerLocation#0;class#Rotation#0" expanded="false" />
             <element signature="method#addAllToRotation#0;class#Rotation#0" expanded="false" />
             <element signature="method#checkteamwise#0;class#Rotation#0" expanded="false" />
             <element signature="method#rotateFree#0;class#Rotation#0" expanded="false" />
             <element signature="method#rotateTwoMonths#0;class#Rotation#0" expanded="false" />
             <element signature="method#LocationProjects#0;class#Rotation#0" expanded="false" />
-            <element signature="e#12292#12309#0" expanded="true" />
-            <element signature="e#12416#12424#0" expanded="true" />
-            <element signature="e#13098#13106#0" expanded="true" />
+            <element signature="e#12302#12319#0" expanded="true" />
+            <element signature="e#12426#12434#0" expanded="true" />
+            <element signature="e#13108#13116#0" expanded="true" />
             <element signature="method#checkLocationBeforeRemoval#0;class#Rotation#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
